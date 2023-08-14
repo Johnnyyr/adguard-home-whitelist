@@ -1,2 +1,5 @@
 *.telekom.de
 *.kleinanzeigen.de
+*.etsy.com
+*.apple.de
+*.apple.com
