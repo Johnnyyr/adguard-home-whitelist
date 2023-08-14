@@ -10,3 +10,5 @@
 *.kontist.de
 *.lexoffice.de
 *.dhl.de
+*.paypal.com
+*.paypal.de
