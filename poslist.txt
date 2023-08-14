@@ -9,3 +9,4 @@
 *.mailbox.org
 *.kontist.de
 *.lexoffice.de
+*.dhl.de
