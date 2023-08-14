@@ -3,3 +3,9 @@
 *.etsy.com
 *.apple.de
 *.apple.com
+*.adobe.io
+*.adobe.de
+*.adobe.com
+*.mailbox.org
+*.kontist.de
+*.lexoffice.de
