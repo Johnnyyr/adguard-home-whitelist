@@ -13,6 +13,7 @@
 @@||adobe.de^$important
 @@||adobe.com^$important
 # amazon
+@@||aax-eu.amazon.de^$important
 @@||crl.rootg2.amazontrust.com^$important
 @@||crl.sca1b.amazontrust.com^$important
 @@||github-cloud.s3.amazonaws.com^$important
