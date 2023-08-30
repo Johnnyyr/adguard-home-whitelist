@@ -12,3 +12,5 @@
 *.dhl.de
 *.paypal.com
 *.paypal.de
+*.trustedshops.com
+*.cliplister.com
