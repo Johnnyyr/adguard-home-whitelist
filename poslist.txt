@@ -13,17 +13,17 @@
 @@||adobe.de^$important
 @@||adobe.com^$important
 # amazon
-@@|crl.rootg2.amazontrust.com^$important
-@@|crl.sca1b.amazontrust.com^$important
-@@|github-cloud.s3.amazonaws.com^$important
-@@|github-production-release-asset-*.s3.amazonaws.com^$important
-@@|github-production-repository-file-5c1aeb.s3.amazonaws.com^$important
-@@|github-production-repository-image-32fea6.s3.amazonaws.com^$important
-@@|github-production-upload-manifest-file-*.s3.amazonaws.com^$important
-@@|github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$important
-@@|github-production-user-asset-6210df.s3.amazonaws.com^$important
-@@|images-na.ssl-images-amazon.com^$important
-@@|m.media-amazon.com^$important
+@@||crl.rootg2.amazontrust.com^$important
+@@||crl.sca1b.amazontrust.com^$important
+@@||github-cloud.s3.amazonaws.com^$important
+@@||github-production-release-asset-*.s3.amazonaws.com^$important
+@@||github-production-repository-file-5c1aeb.s3.amazonaws.com^$important
+@@||github-production-repository-image-32fea6.s3.amazonaws.com^$important
+@@||github-production-upload-manifest-file-*.s3.amazonaws.com^$important
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$important
+@@||github-production-user-asset-6210df.s3.amazonaws.com^$important
+@@||images-na.ssl-images-amazon.com^$important
+@@||m.media-amazon.com^$important
 # Mailbox.org
 @@||mailbox.org^$important
 #Banking
@@ -35,9 +35,15 @@
 # Post
 @@||dhl.de^$important
 # Paypal
-@@|paypal.com^$important
-@@|paypal.de^$important
-@@|paypalobjects.com^$important
+@@||paypal.com^$important
+@@||paypal.de^$important
+@@||paypalobjects.com^$important
+@@||epl.paypal-communication.com^$important
+@@||www.paypalobjects.com^$important
+@@||paypalobjects.com^$important
+@@||t.paypal.com^$important
+@@||epidm.edgesuite.net^$important
+@@||images.ctfassets.net^$important
 # Shopping adds
 @@||trustedshops.com^$important
 @@||cliplister.com^$important
