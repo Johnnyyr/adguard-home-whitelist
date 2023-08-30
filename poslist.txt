@@ -1,16 +1,215 @@
-*.telekom.de
-*.kleinanzeigen.de
-*.etsy.com
-*.apple.de
-*.apple.com
-*.adobe.io
-*.adobe.de
-*.adobe.com
-*.mailbox.org
-*.kontist.de
-*.lexoffice.de
-*.dhl.de
-*.paypal.com
-*.paypal.de
-*.trustedshops.com
-*.cliplister.com
+# Webhosting
+@@||customercontrolpanel.de^$important
+@@||netcup.de^$important
+@@||uberspace.de.de^$important
+@@||lexoffice.de^$important
+# Telekom
+@@||telekom.de^$important
+#Shopping
+@@||kleinanzeigen.de^$important
+@@||etsy.com^$important
+# Adobe
+@@||adobe.io^$important
+@@||adobe.de^$important
+@@||adobe.com^$important
+# amazon
+@@|crl.rootg2.amazontrust.com^$important
+@@|crl.sca1b.amazontrust.com^$important
+@@|github-cloud.s3.amazonaws.com^$important
+@@|github-production-release-asset-*.s3.amazonaws.com^$important
+@@|github-production-repository-file-5c1aeb.s3.amazonaws.com^$important
+@@|github-production-repository-image-32fea6.s3.amazonaws.com^$important
+@@|github-production-upload-manifest-file-*.s3.amazonaws.com^$important
+@@|github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$important
+@@|github-production-user-asset-6210df.s3.amazonaws.com^$important
+@@|images-na.ssl-images-amazon.com^$important
+@@|m.media-amazon.com^$important
+# Mailbox.org
+@@||mailbox.org^$important
+#Banking
+@@||kontist.de^$important
+@@||dkb.de^$important
+@@||lexoffice.de^$important
+@@||consorsbank.de^$important
+@@||ebase.com.de^$important
+# Post
+@@||dhl.de^$important
+# Paypal
+@@|paypal.com^$important
+@@|paypal.de^$important
+@@|paypalobjects.com^$important
+# Shopping adds
+@@||trustedshops.com^$important
+@@||cliplister.com^$important
+#Adguard DNS
+@@||dns.adguard.com^$important
+@@||dns-family.adguard.com^$important
+# Instagram
+@@||cdninstagram.com^$important
+@@||instagram.com^$important
+@@||instagram.c10r.facebook.com^$important
+# Google
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
+@@||android.clients.google.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
+# Youtube
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
+# Plex
+@@||app.plex.tv^$important
+@@||cpms.spop10.ams.plex.bz^$important
+@@||cpms35.spop10.ams.plex.bz^$important
+@@||dashboard.plex.tv^$important
+@@||meta-db-worker02.pop.ric.plex.bz^$important
+@@||meta.plex.bz^$important
+@@||meta.plex.tv^$important
+@@||my.plexapp.com^$important
+@@||nine.plugins.plexapp.com^$important
+@@||node.plexapp.com^$important
+@@||o1.email.plex.tv^$important
+@@||o2.sg0.plex.tv^$important
+@@||proxy.plex.bz^$important
+@@||proxy.plex.tv^$important
+@@||proxy02.pop.ord.plex.bz^$important
+@@||pubsub.plex.bz^$important
+@@||pubsub.plex.tv^$important
+@@||staging.plex.tv^$important
+@@||status.plex.tv^$important
+@@||tvdb2.plex.tv^$important
+@@||tvthemes.plexapp.com^$important
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# No-IP.com
+@@||no-ip.com^$important
+# Akamai 
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||widget-cdn.rpxnow.com^$important
+@@||akamai.net^$important
+@@||akadns.net^$important
+# Giphy.com
+@@||giphy.com^$important
+# Gravatar Image
+@@||gravatar.com^$important
+# Jquery
+@@||jquery.com^$important
+# Jsdelivr.net Open Source CDN
+@@||jsdelivr.net^$important
+# Malwarebytes Anti-Malware
+@@||keystone.mwbsys.com^$important
+# Aliexpress.com
+@@||login.aliexpress.com^$important
+# Shopify.com 
+@@||v.shopify.com^$important
+@@||s.shopify.com^$important
+# Wordpress
+@@||wp.com^$important
+@@||wordpress.com^$important
+# Tinyurl Shortener
+@@||tinyurl.com^$important
+# Wikipedia
+@@||wikipedia.org^$important
+# Microsoft
+@@||win10.ipv6.microsoft.com^$important
+@@||sharepoint.com^$important
+@@||office.com^$important
+@@||office.net^$important
+@@||office365.com^$important
+@@||officeclient.microsoft.com^$important
+@@||nexusrules.officeapps.live.com^$important
+@@||microsoftonline.com^$important
+@@||live.com^$important
+@@||i.s-microsoft.com^$important
+@@||c.s-microsoft.com^$important
+@@||clientconfig.passport.net^$important
+@@||ctldl.windowsupdate.com^$important
+@@||geo-prod.do.dsp.mp.microsoft.com^$important
+@@||displaycatalog.mp.microsoft.com^$important
+@@||dl.delivery.mp.microsoft.com^$important
+# Netflix
+@@||api-global.netflix.com^$important
+@@||ichnaea.netflix.com^$important
+@@||appboot.netflix.com^$important
+@@||secure.netflix.com^$important
+# Spotify
+@@||open.spotify.com^$important
+@@||mobile-ap.spotify.com^$important
+@@||apresolve.spotify.com^$important
+@@||upgrade.scdn.com^$important
+@@||market.spotify.com^$important
+@@||spclient.wg.spotify.com^$important
+@@||ap.spotify.com^$important
+@@||audio-ake.spotify.com.edgesuite.net^$important
+@@||audio4-ak.spotify.com.edgesuite.net^$important
+# Amazon Prime Video and Amazon CDN
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+# Apple
+@@||gdmf.apple.com.akadns.net^$important
+@@||itunes.com^$important
+@@||mzstatic.com^$important
+@@||iphone-ld.origin-apple.com.akadns.net^$important
+@@||ax.phobos.apple.com.edgesuite.net^$important
+@@||init-p01md-lb.push-apple.com.akadns.net^$important
+@@||uts-api-cdn.itunes-apple.com.akadns.net^$important
+@@||np-edge-cdn.itunes-apple.com.akadns.net^$important
+@@||iadsdk.apple.com.akadns.net^$important
+@@||play.itunes.apple.com.edgesuite.net^$important
+# Lets Encrypt
+@@||letsencrypt.org^$important
+# Spiegel.de
+@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
+@@||spiegel.de^$important
+# Disney+ Streaming
+@@||cdn.registerdisney.go.com^$important
+@@||dssott.com^$important
+@@||disneyplus.com^$important
+@@||disney-plus.net^$important
+@@||cws.conviva.com^$important
+@@||disneyplus.bn5x.net^$important
+@@||disney-portal.my.onetrust.com^$important
+@@||bamgrid.com^$important
+@@||disneyplus.com.ssl.sc.omtrdc.net^$important
+@@||cws-sjc2.conviva.com^$important
+@@||cws-iad1.conviva.com^$important
+@@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
+@@||disney.demdex.net^$important
+# TV
+@@||image.ard.de^$important
+@@||image-ard-de-cddc.at-o.net^$important
+@@||daserste.de^$important
+# Corona
+@@||corona-datenspende.de^$important
+@@||datenspende.und-gesund.de^$important
+@@||svc90.main.px.t-online.de^$important
