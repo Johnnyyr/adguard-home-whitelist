@@ -3,8 +3,9 @@
 @@||netcup.de^$important
 @@||uberspace.de.de^$important
 @@||lexoffice.de^$important
-# Telekom
+# Telekom and MagentaCloud
 @@||telekom.de^$important
+@@||https://tiqcdn.com^$important
 #Shopping
 @@||kleinanzeigen.de^$important
 @@||etsy.com^$important
