@@ -5,7 +5,7 @@
 @@||lexoffice.de^$important
 # Telekom and MagentaCloud
 @@||telekom.de^$important
-@@||https://tiqcdn.com^$important
+@@||tiqcdn.com^$important
 #Shopping
 @@||kleinanzeigen.de^$important
 @@||etsy.com^$important
