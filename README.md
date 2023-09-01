@@ -1,16 +1,17 @@
-# AdGuard-Home-Whitelist Paypal, Etsy, Apple, Shopping ✅
+# AdGuard-Home-Whitelist Paypal, Etsy, Apple, Shopping, Adobe etc. ✅
 
 ## Infos
 
-Dies ist eine Whitelist für AdGuard Home für alle die zwar viel blocken wollen, aber nicht ganz so einen großen Aluhut auf haben. Da es mich doch sehr nervt ständig probleme beim Shoppen zu haben, da doch zuviel blockiert wurde. Musss ich halt in den saurenapfel beißen und einiges frei geben. Die Liste ist nie akutell und auf keinen falls vollständig. 
+Dies ist eine Whitelist für AdGuard Home für alle, die viel blocken wollen, aber nicht so einen großen Aluhut aufhaben. Da es mich doch sehr nervt, ständig Probleme beim Surfen zu haben, weil doch zu viel geblockt wurde. Da muss ich halt in den sauren Apfel beißen und einiges freigeben. Die Liste ist nie aktuell und auf keinen Fall vollständig.
 
 ## Tipps
 
-Schaut euch AdGuard Home infos dazu: 
+-  [Infos zur Erstellung von White/Blocklist](https://adguard.com/kb/de/general/ad-filtering/create-own-filters/) 
+- 
 
 ## Version
 
-Aktuelle Version: 0.6
-Zuletzt aktualisiert: 30.08.2023
+Aktuelle Version: 0.7
+Zuletzt aktualisiert: 07.09.2023
 
 
